@@ -2,7 +2,7 @@
 
 Con estas líneas intentamos comunicar en parte el tipo de cultura que tenemos en el equipo de Ingeniería y Producto en Lemontech. Claramente no es suficiente, ya que al final es en el día a día y las pequeñas interacciones donde se definen las dinámicas y las maneras de trabajar de los equipos. Pero al menos aquí declaramos parte de como queremos hacer las cosas, algunas ideas que nos inspiran, y sobre todo nos interesa dejar claro de que estamos y estaremos siempre aprendiendo, por lo que el modo como funcionamos hoy, seguro que será distinto al que tengamos mañana ;)
 
-Es una buena idea partir leyendo nuestros [Criterios Comunes](https://github.com/LemontechSA/the-playbook/blob/master/criterios_comunes.md), que se centran principalmente en torno a cómo/dónde/cuándo trabajamos. Luego debieras mirar algunos de los posts en [nuestro blog](https://medium.com/lemontech-engineering).
+Es una buena idea partir leyendo nuestros [Criterios Comunes](criterios_comunes.md), que se centran principalmente en torno a cómo/dónde/cuándo trabajamos. Luego debieras mirar algunos de los posts en [nuestro blog](https://medium.com/lemontech-engineering).
 
 ## Algunos punteros de inspiración cultural
 
